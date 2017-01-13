@@ -1,0 +1,9 @@
+{
+    "config": {
+        "vendor-dir": "./",
+        "prepend-autoloader": false
+    },
+    "require": {
+        "enshrined/svg-sanitize": "^0.4.1"
+    }
+}
