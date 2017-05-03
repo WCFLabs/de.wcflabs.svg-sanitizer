@@ -22,4 +22,8 @@
 	<instructions type="install">
 		<instruction type="file">files.tar</instruction>
 	</instructions>
+	
+	<instructions type="update" fromversion="0.4.1">
+		<instruction type="file">files.tar</instruction>
+	</instructions>
 </package>
