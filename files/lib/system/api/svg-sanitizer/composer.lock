@@ -4,21 +4,21 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "0671ed0db45e06bd90afcd56eea2c7b5",
-    "content-hash": "d6e6033d68aabd4b6dc9bf07e6e840b6",
+    "hash": "606f5f48e4637191a0f58c61a051a250",
+    "content-hash": "8ac83f600a751fd80ca6f3a29df468ff",
     "packages": [
         {
             "name": "enshrined/svg-sanitize",
-            "version": "0.4.1",
+            "version": "0.5.3",
             "source": {
                 "type": "git",
                 "url": "https://github.com/darylldoyle/svg-sanitizer.git",
-                "reference": "7a1e99504b54698607f039b4384f626d13222aeb"
+                "reference": "1907fff05f8931e1bc0c8ba27e936b46d51e29b0"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/darylldoyle/svg-sanitizer/zipball/7a1e99504b54698607f039b4384f626d13222aeb",
-                "reference": "7a1e99504b54698607f039b4384f626d13222aeb",
+                "url": "https://api.github.com/repos/darylldoyle/svg-sanitizer/zipball/1907fff05f8931e1bc0c8ba27e936b46d51e29b0",
+                "reference": "1907fff05f8931e1bc0c8ba27e936b46d51e29b0",
                 "shasum": ""
             },
             "require-dev": {
@@ -42,7 +42,7 @@
                 }
             ],
             "description": "An SVG sanitizer for PHP",
-            "time": "2016-12-01 23:15:52"
+            "time": "2017-02-26 17:38:09"
         }
     ],
     "packages-dev": [],
