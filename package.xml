@@ -2,8 +2,8 @@
 <package name="de.wcflabs.svg-sanitizer" xmlns="http://www.woltlab.com" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.woltlab.com http://www.woltlab.com/XSD/maelstrom/package.xsd">
 	<packageinformation>
 		<packagename>SVG Sanitizer</packagename>
-		<version>0.5.3</version>
-		<date>2017-05-03</date>
+		<version>0.10.0</version>
+		<date>2019-02-05</date>
 	</packageinformation>
 	
 	<authorinformation>
@@ -23,7 +23,7 @@
 		<instruction type="file">files.tar</instruction>
 	</instructions>
 	
-	<instructions type="update" fromversion="0.4.1">
+	<instructions type="update" fromversion="0.5.3">
 		<instruction type="file">files.tar</instruction>
 	</instructions>
 </package>

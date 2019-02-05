@@ -4,6 +4,6 @@
         "prepend-autoloader": false
     },
     "require": {
-        "enshrined/svg-sanitize": "^0.5.3"
+        "enshrined/svg-sanitize": "^0.10.0"
     }
 }
